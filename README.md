@@ -59,7 +59,8 @@ Ejecuta la regla seleccionada y obtiene el diagnóstico correspondiente.
 ## Requisitos
 
 - Python 3.x
-- Pillow
+- Si Pillow no está instalado:
+pip install pillow
 
 ## Ejecución
 
